@@ -1,0 +1,15 @@
+section h1{
+    font-size: 50px;
+    border: none;
+    margin-right: 30px;
+    padding-top: 30px;
+    background-color: blue;
+
+}
+section ul{
+    font-size: 20px;
+    border: none;
+    margin-right: 30px;
+    padding-right: 30px;
+    background-color: aqua;
+}
